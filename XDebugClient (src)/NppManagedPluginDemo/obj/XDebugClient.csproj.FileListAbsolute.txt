@@ -1,0 +1,12 @@
+C:\Documents and Settings\Администратор\Рабочий стол\unicode\plugins\XDebugClient.dll
+C:\Documents and Settings\Администратор\Рабочий стол\unicode\plugins\XDebugClient.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\FallingBricks\XDebugClient\NppManagedPluginDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Рабочий стол\FallingBricks\XDebugClient\NppManagedPluginDemo\obj\Debug\NppPluginNET.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Рабочий стол\FallingBricks\XDebugClient\NppManagedPluginDemo\obj\Debug\XDebugClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Рабочий стол\FallingBricks\XDebugClient\NppManagedPluginDemo\obj\Debug\XDebugClient.dll
+C:\Documents and Settings\Администратор\Рабочий стол\FallingBricks\XDebugClient\NppManagedPluginDemo\obj\Debug\XDebugClient.pdb
+C:\Documents and Settings\Администратор\Рабочий стол\FallingBricks\XDebugClient\NppManagedPluginDemo\obj\Debug\NppPluginNET.XDCDialog.resources
+C:\Documents and Settings\Администратор\Рабочий стол\FallingBricks\XDebugClient\NppManagedPluginDemo\obj\Debug\NppPluginNET.Forms.AboutDialog.resources
+C:\Documents and Settings\Администратор\Рабочий стол\FallingBricks\XDebugClient\NppManagedPluginDemo\obj\Debug\NppPluginNET.Forms.SettingsDialog.resources
+C:\Programs\Notepad++ (2)\plugins\XDebugClient.dll
+C:\Programs\Notepad++ (2)\plugins\XDebugClient.pdb
